@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RYqFx/T6woKAsQ8QpJautnK5O3ynv2wb+GXvhWQg/BoghDRmbqh8xPUwwjG5tsWaTHa+3ayf8AaXOCdsNkQgw==",
+  "success": true,
+  "projectFilePath": "/Users/eylul/Desktop/lab1_eylul/lab1_eylul.csproj",
+  "expectedPackageFiles": [
+    "/Users/eylul/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
