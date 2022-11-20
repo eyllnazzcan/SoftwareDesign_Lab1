@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+RYqFx/T6woKAsQ8QpJautnK5O3ynv2wb+GXvhWQg/BoghDRmbqh8xPUwwjG5tsWaTHa+3ayf8AaXOCdsNkQgw==",
+  "dgSpecHash": "/A0aLaQxPKLarD64lVJWvgzqIqacif+KSmNes5XFZvYoMCxYSCrOUoicfZSLnNfYCu8ASgr6XByodZKNFm39xA==",
   "success": true,
-  "projectFilePath": "/Users/eylul/Desktop/lab1_eylul/lab1_eylul.csproj",
+  "projectFilePath": "/Users/eylul/Documents/GitHub/SoftwareDesign_Lab1/lab1_eylul.csproj",
   "expectedPackageFiles": [
     "/Users/eylul/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
   ],

@@ -1,13 +1,39 @@
 ﻿using System.IO;
 
-string path = "apartment_buildings_2019.csv";
-
-string[] lines = System.IO.File.ReadAllLines(path);
-int counter = 0;
-foreach(string line in lines)
+namespace CSVFile
 {
-    counter++;
-}
+    class Program
+    {
+        public static void countByStreet()
+        {
+            string path = "apartment_buildings_2019.csv";
 
-Console.WriteLine(counter-1);
+            var lines = System.IO.File.ReadAllLines(path);
+            int counter = 0;
+
+            foreach(var line in lines)
+            {
+                string[] values = line.Split(";"); // Split each value
+                string street = values[1];
+
+                int numb = 0;
+                var isnumber = int.TryParse(street, out numb);
+
+                if(isnumber==false) //check if the counter is in the "adresas" column
+                {
+                    counter++;
+                }
+                
+            }
+
+            Console.WriteLine("Building count by street: " + (counter-1));
+        }
+
+        public static void Main()
+        {
+            countByStreet();
+        }
+
+    }
+}
 

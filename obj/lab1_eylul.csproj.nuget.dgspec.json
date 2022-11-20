@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eylul/Desktop/lab1_eylul/lab1_eylul.csproj": {}
+    "/Users/eylul/Documents/GitHub/SoftwareDesign_Lab1/lab1_eylul.csproj": {}
   },
   "projects": {
-    "/Users/eylul/Desktop/lab1_eylul/lab1_eylul.csproj": {
+    "/Users/eylul/Documents/GitHub/SoftwareDesign_Lab1/lab1_eylul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eylul/Desktop/lab1_eylul/lab1_eylul.csproj",
+        "projectUniqueName": "/Users/eylul/Documents/GitHub/SoftwareDesign_Lab1/lab1_eylul.csproj",
         "projectName": "lab1_eylul",
-        "projectPath": "/Users/eylul/Desktop/lab1_eylul/lab1_eylul.csproj",
+        "projectPath": "/Users/eylul/Documents/GitHub/SoftwareDesign_Lab1/lab1_eylul.csproj",
         "packagesPath": "/Users/eylul/.nuget/packages/",
-        "outputPath": "/Users/eylul/Desktop/lab1_eylul/obj/",
+        "outputPath": "/Users/eylul/Documents/GitHub/SoftwareDesign_Lab1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eylul/.nuget/NuGet/NuGet.Config"
